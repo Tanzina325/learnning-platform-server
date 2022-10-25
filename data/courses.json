@@ -37,5 +37,15 @@
 "about":"Causal diagrams have revolutionized the way in which researchers ask: Does X have a causal effect on Y? They have become a key tool for researchers who study the effects of treatments, exposures, and policies. By summarizing and communicating assumptions about the causal structure of a problem, causal diagrams have helped clarify apparent paradoxes, describe common biases, and identify adjustment variables. As a result, a sound understanding of causal diagrams is becoming increasingly important in many scientific disciplines.The first part of this course is comprised of five lessons that introduce the theory of causal diagrams and describe its applications to causal inference. The fifth lesson provides a simple graphical description of the bias of conventional statistical methods for confounding adjustment in the presence of time-varying covariates. The second part of the course presents a series of case studies that highlight the practical applications of causal diagrams to real-world questions from the health and social sciences.",
 "duration" :"9 WEEKS LONG",
 "cost":"Free",
+"time":"Available Now"},
+
+{
+    "id" :5,
+"title" :"Case Studies in Functional Genomics",
+"image" : "https://pll.harvard.edu/sites/default/files/styles/header/public/course/data-analysis_5.png?itok=VXxM2yyG",
+"details" :" In this course we will perform RNA-Seq, ChIP-Seq, and DNA methylation data analyses,using open source software, including R and Bioconductor.Mapping reads,quality assessment of Next Generation Data,analyzing RNA-seq data,analyzing DNA methylation data and analyzing ChIP Seq data are included in this course.",
+"about":"We will explain how to perform the standard processing and normalization steps, starting with raw data, to get to the point where one can investigate relevant biological questions. Throughout the case studies, we will make use of exploratory plots to get a general overview of the shape of the data and the result of the experiment. We start with RNA-seq data analysis covering basic concepts and a first look at FASTQ files. We will also go over quality control of FASTQ files; aligning RNA-seq reads; visualizing alignments and move on to analyzing RNA-seq at the gene-level : counting reads in genes; Exploratory Data Analysis and variance stabilization for counts; count-based differential expression; normalization and batch effects. Finally, we cover RNA-seq at the transcript-level : inferring expression of transcripts (i.e. alternative isoforms); differential exon usage. We will learn the basic steps in analyzing DNA methylation data, including reading the raw data, normalization, and finding regions of differential methylation across multiple samples. The course will end with a brief description of the basic steps for analyzing ChIP-seq datasets, from read alignment, to peak calling, and assessing differential binding patterns across multiple samples.",
+"duration" :"5 WEEKS LONG",
+"cost":"Free",
 "time":"Available Now"}
 ]
