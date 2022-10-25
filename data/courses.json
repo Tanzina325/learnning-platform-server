@@ -1,0 +1,24 @@
+[
+    
+    {
+        "id" :1,
+    "title" :"Data Science Principles",
+"image" : "https://pll.harvard.edu/sites/default/files/styles/header/public/course/datascienceprinciples_resized.png?itok=XQTe3JR9",
+"details" :"Understand the modern data science landscape and technical terminology for a data-driven world .Recognize major concepts and tools in the field of data science and determine where they can be appropriately applied.Appreciate the importance of curating, organizing, and wrangling data.Explain uncertainty, causality, and data quality—and the ways they relate to each other.Predict the consequences of data use and misuse and know when more data may be needed or when to change approaches",
+"about":"Data science is at the core of modern business, from healthcare to government to advertising. Data Science Principles makes the fundamental topics in data science approachable and relevant by using real-world examples and prompts you to think critically about applying these new understandings to your workplace. Get an overview of data science with a code- and math-free introduction to prediction, causality, data wrangling, privacy, and ethics. Geared toward managers, Data Science Principles prepares you to speak the language of data science and contribute to data-oriented discussions within your company and daily life. This isn't a course for data scientists—it's for everyone around them.",
+"duration" :"4 WEEKS LONG",
+"cost":"$950",
+"time":"REGISTER BY NOV 7"},
+
+{
+    "id" :2,
+"title" :"Data Privacy and Technology",
+"image" : "https://pll.harvard.edu/sites/default/files/styles/header/public/course/DPAT_530.png?itok=oy0dG1Q9",
+"details" :"Understand the various attempts to define privacy and the ongoing conflict of privacy laws and norms within technology advancements.Review approaches to collecting, using, and selling data, including data privacy policies—and the impact on user protections.Analyze challenges related to the anonymization of data and the trade-offs between privacy and utility.Examine the price of personal data and the trade-offs between privacy and other values.Think critically about privacy issues from multiple angles, exploring policy, cultural, and societal impacts.",
+"about":"Technology isn't value-neutral. In an age where more technology is incorporated into daily life at an increasing pace, the protection of privacy can often be an afterthought. Data Privacy and Technology will encourage you to think critically about the trade-offs and challenges presented by today's ever-changing role of technology.Through real-life examples with industry experts, policy makers, and privacy researchers you'll explore legal and ethical implications of collecting personal data; understand who's responsible for protecting personal data; and why antitrust and privacy laws are unable to keep pace with the rapid change in technology. Throughout the course, you'll explore the risks and rewards of surveillance; examine the future of data collection, usage, and privacy; and the technology of personal data collection.Privacy is a complex and multifaceted concept and this course aims to help you become a contributing member of privacy-forward communities, business task forces, and data-sharing practices. By the end of the course, you will be a better informed citizen of the Internet, be able to think about the trade-offs around data collection, and be able to lead your organization as it grapples with the interaction between big data and privacy.",
+"duration" :"5 WEEKS LONG",
+"cost":"$750",
+"time":"REGISTER BY NOV 27"}
+
+
+]
