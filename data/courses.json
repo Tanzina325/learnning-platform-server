@@ -47,5 +47,15 @@
 "about":"We will explain how to perform the standard processing and normalization steps, starting with raw data, to get to the point where one can investigate relevant biological questions. Throughout the case studies, we will make use of exploratory plots to get a general overview of the shape of the data and the result of the experiment. We start with RNA-seq data analysis covering basic concepts and a first look at FASTQ files. We will also go over quality control of FASTQ files; aligning RNA-seq reads; visualizing alignments and move on to analyzing RNA-seq at the gene-level : counting reads in genes; Exploratory Data Analysis and variance stabilization for counts; count-based differential expression; normalization and batch effects. Finally, we cover RNA-seq at the transcript-level : inferring expression of transcripts (i.e. alternative isoforms); differential exon usage. We will learn the basic steps in analyzing DNA methylation data, including reading the raw data, normalization, and finding regions of differential methylation across multiple samples. The course will end with a brief description of the basic steps for analyzing ChIP-seq datasets, from read alignment, to peak calling, and assessing differential binding patterns across multiple samples.",
 "duration" :"5 WEEKS LONG",
 "cost":"Free",
-"time":"Available Now"}
+"time":"Available Now"},
+
+{
+    "id" :6,
+"title" :"Data Science: Linear Regression",
+"image" : "",
+"details" :"Learn how to use R to implement linear regression, one of the most common statistical modeling approaches in data science. Learn how linear regression was originally developed by Galton . Also learn what is confounding and how to detect it and how to examine the relationships between variables by implementing linear regression in R",
+"about":"Linear regression is commonly used to quantify the relationship between two or more variables. It is also used to adjust for confounding. This course, part of our Professional Certificate Program in Data Science, covers how to implement linear regression and adjust for confounding in practice using R.In data science applications, it is very common to be interested in the relationship between two or more variables. The motivating case study we examine in this course relates to the data-driven approach used to construct baseball teams described in Moneyball. We will try to determine which measured outcomes best predict baseball runs by using linear regression.We will also examine confounding, where extraneous variables affect the relationship between two or more other variables, leading to spurious associations. Linear regression is a powerful technique for removing confounders, but it is not a magical process. It is essential to understand when it is appropriate to use, and this course will teach you when to apply this technique.",
+"duration" :"6 WEEKS LONG",
+"cost":"Free",
+"time":"Opens JAN 10"}
 ]
