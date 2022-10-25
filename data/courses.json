@@ -27,6 +27,15 @@
 "about":"Data Science for Business will teach you how to think beyond the spreadsheet, and effectively use data to tackle your business decisions, becoming a stronger manager.This course provides a hands-on approach for demystifying the data science ecosystem and making you a more conscientious consumer of information. Starting with the questions you need to ask when using data for decision-making, this course will help you know when to trust your data and how to interpret the results. By the end of the course, you should understand how to create a data-driven framework for your organization or yourself; develop hypotheses and insights from visualization; identify data mistakes or missing components; and, speak the language of data science across themes such as forecasting, linear regressions, and machine learning to better lead your team to long-term success. You will learn how to create a compelling story that uses proven, collected data to make core business decisions, and explore coding environments such as R and visualization software. "  ,
 "duration" :"6 WEEKS LONG",
 "cost":"$1000",
-"time":"REGISTER BY OCT 10"}
+"time":"REGISTER BY OCT 10"},
 
+{
+    "id" :4,
+"title" :"Causal Diagrams: Draw Your Assumptions Before Your Conclusions",
+"image" : "https://pll.harvard.edu/sites/default/files/styles/header/public/course/HarvardX%2BPH559x.jpg?itok=n6xlHfom",
+"details" :"Learn simple graphical rules that allow you to use intuitive pictures to improve study design and data analysis for causal inference.Learn how to translate expert knowledge into a causal diagram.Learn how to draw causal diagrams under different assumptions.Using causal diagrams to identify common biases.Using causal diagrams to guide data analysis",
+"about":"Causal diagrams have revolutionized the way in which researchers ask: Does X have a causal effect on Y? They have become a key tool for researchers who study the effects of treatments, exposures, and policies. By summarizing and communicating assumptions about the causal structure of a problem, causal diagrams have helped clarify apparent paradoxes, describe common biases, and identify adjustment variables. As a result, a sound understanding of causal diagrams is becoming increasingly important in many scientific disciplines.The first part of this course is comprised of five lessons that introduce the theory of causal diagrams and describe its applications to causal inference. The fifth lesson provides a simple graphical description of the bias of conventional statistical methods for confounding adjustment in the presence of time-varying covariates. The second part of the course presents a series of case studies that highlight the practical applications of causal diagrams to real-world questions from the health and social sciences.",
+"duration" :"9 WEEKS LONG",
+"cost":"Free",
+"time":"Available Now"}
 ]
